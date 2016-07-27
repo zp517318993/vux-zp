@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/vux-zp/!svn/ver/5/api/main
+END
+text.json
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/vux-zp/!svn/ver/7/api/main/text.json
+END
+banner.json
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/vux-zp/!svn/ver/5/api/main/banner.json
+END
+tasks.json
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/vux-zp/!svn/ver/5/api/main/tasks.json
+END

@@ -1,0 +1,14 @@
+{
+  "status": 1,
+  "message": "获取成功",
+  "data": {
+    "tid": "1",
+    "title": "11111",
+    "thumbnail": "adv.jpg",
+    "advertiser": "abc1",
+    "read_profit": "8",
+    "type": "0",
+    "status": "1",
+    "created": "1452139945"
+  }
+}
